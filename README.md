@@ -10,7 +10,7 @@ This work uses over 3700 water samples from a variety of water sources including
 
  Various classifiers were used to predict the potability of a water sample given the neccessary features were available. 
 
- ![accuracy_H2O_potability](https://github.com/tombra1984/Water-potability-prediction-/assets/127909963/09a87bde-e39b-42e8-b87e-5abd56a53fe3)
+
 
  
 
