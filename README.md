@@ -8,7 +8,7 @@ This work uses over 3700 water samples from a variety of water sources including
 
  The ph of the water samples are seen to increase in relation to salinity and conductivity. The same can be said of the relationship between interactions and chloramines.
 
- Various classifiers were used to predict the potability of a water sample given the neccessary features were available. The accuracies varied widely.
+ Various classifiers were trained to predict the potability of a water sample given the neccessary features were available. The accuracies varied widely.
 
 ![Alt text](accuracy_water_potability.png)
  
