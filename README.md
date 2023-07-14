@@ -1,2 +1,2 @@
 # Water-potability-prediction-
-This predicts the potability of water using samples from 500 boreholes
+This work uses over 3500 water samples from a variety of water sources including surface water and subsurface (boreholes) samples to predict water potability. It considers potable water as water that is safe to drink and free from contaminants, harmful bacteria, microorganisms, toxic chemicals, viruses, and fecal matter. It comes from surface and ground sources and is treated to levels that meet state and federal standards for consumption.
