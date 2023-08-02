@@ -17,6 +17,7 @@ From the charts ploted a relationship is seen to exist between ph and salinity a
 
 After considerations the Random Forrest classifer was chosen. It was observed that there was an imbalance in the data and SMOTE was used to address this issue. This slightly improved the accuracy of the Random Forest classifier. However, the improvement was minimal as the accuracy went up to 0.72.
 
+
 ![Alt text](classreport_RF_waterpot.png)
 
 
