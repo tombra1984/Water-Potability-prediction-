@@ -9,6 +9,7 @@ From the charts ploted a relationship is seen to exist between ph and salinity a
 
 
  The ph of the water samples are seen to increase in relation to salinity and conductivity. The same can be said of the relationship between interactions and chloramines.
+ 
 
  Various classifiers were trained to predict the potability of a water sample given the neccessary features were available. The accuracies varied widely.
 
