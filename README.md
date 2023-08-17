@@ -1,5 +1,5 @@
 # Water-potability-prediction-
-This work uses over 3700 water samples from a variety of water sources including surface water and subsurface (boreholes) samples to predict water potability. Surface water here refers to water from streams and other open water bodies such  . It considers potable water as water that is safe to drink and free from contaminants, harmful bacteria, microorganisms, toxic chemicals, viruses, and fecal matter. It comes from surface and ground sources and is treated to levels that meet state and federal standards for consumption.
+This work uses over 3700 water samples from a variety of water sources including surface water and subsurface (boreholes) samples to predict water potability. Surface water here refers to water from streams and other open water bodies. It considers potable water as water that is safe to drink and free from contaminants, harmful bacteria, microorganisms, toxic chemicals, viruses, and fecal matter as described by  WHO. It comes from surface and ground sources and is treated to levels that meet state and federal standards for consumption.
 
 Features used to predict potability and their definitions can be found in the file "about the dataset".
 
